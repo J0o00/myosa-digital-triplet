@@ -21,30 +21,30 @@ tags:
 
 ### Images
 <p align="center">
-<img src="/assets/images/myosa-digital-triplet/dashboard.png" width="800"><br/>
+<img src="images/dashboard.png" width="800"><br/>
 <i>MYOSA Digital Triplet Dashboard</i>
 </p>
 <p align="center">
-<img src="/assets/images/myosa-digital-triplet/fullsystem.jpg" width="800"><br/>
+<img src="images/fullsystem.jpg" width="800"><br/>
 <i>MYOSA Digital Triplet fullsystem</i>
 </p>
 <p align="center">
-<img src="/assets/images/myosa-digital-triplet/hardware.jpeg" width="800"><br/>
+<img src="images/hardware.jpeg" width="800"><br/>
 <i>MYOSA Digital Triplet hardware</i>
 </p>
 <p align="center">
-<img src="/assets/images/myosa-digital-triplet/myosakit.jpeg" width="800"><br/>
+<img src="images/myosakit.jpeg" width="800"><br/>
 <i>MYOSA Digital Triplet Dashboard</i>
 </p>
 <p align="center">
-<img src="/assets/images/myosa-digital-triplet/telemetry.png" width="800"><br/>
+<img src="images/telemetry.png" width="800"><br/>
 <i>MYOSA Digital Triplet telemetry</i>
 </p>
 
 ### Videos
-<video controls width="100%">
-<source src="/videos/demo.mp4" type="video/mp4">
-</video>
+
+- Local Repository Demo: [Watch Demo](videos/demo.mp4)
+- Backup Drive Link: [Google Drive Video](https://drive.google.com/file/d/1IK0GVrevZfL-2KjDTvdgtj44JFnJ52pk/view?usp=drive_link)
 
 ## Features (Detailed)
 
